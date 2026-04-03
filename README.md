@@ -1,6 +1,11 @@
 # Homework UET
 
-Nộp bài học phần **Tư Duy Tính Toán - UET.COM1050**
+Nộp bài tập về nhà học phần **Tư Duy Tính Toán - UET.COM1050**
+
+**Thông tin sinh viên:**
+* **Họ và tên:** Hoàng Bình Minh
+* **Mã sinh viên:** 25024004
+* **Lớp:** 2526II_UET.COM1050_15
 
 ---
 
@@ -24,8 +29,3 @@ Nộp bài học phần **Tư Duy Tính Toán - UET.COM1050**
 * **Link 2:** [Cấu trúc điều kiện lựa chọn]([https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_3.ipynb](https://github.com/hbminh2508-design/Homeworkuet/blob/main/CauTrucDieuKhienLuaChon.ipynb))
 
 ---
-
-**Thông tin sinh viên:**
-* **Họ và tên:** Hoàng Bình Minh
-* **Mã sinh viên:** 25024004
-* **Lớp:** 2526II_UET.COM1050_15

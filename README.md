@@ -7,7 +7,7 @@ Nộp bài học phần **Tư Duy Tính Toán - UET.COM1050**
 ## Thực hành 01:
 
 * **Link 1:** [Homework_1](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_1.ipynb)
-* **Link 2:** [LAB_01]([URL_DẪN_ĐẾN_BÀI_2](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Lab01_NoAns.ipynb))
+* **Link 2:** [LAB_01](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Lab01_NoAns.ipynb)
 
 ---
 

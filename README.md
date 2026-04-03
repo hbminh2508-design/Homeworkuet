@@ -11,10 +11,17 @@ Nộp bài học phần **Tư Duy Tính Toán - UET.COM1050**
 
 ---
 
-## Thực hành 02: [Tên chủ đề thực hành]
+## Thực hành 02:
 
-* **Link 1:** [Tên bài tập/Tài liệu 1](URL_DẪN_ĐẾN_BÀI_1)
-* **Link 2:** [Tên bài tập/Tài liệu 2](URL_DẪN_ĐẾN_BÀI_2)
+* **Link 1:** [Homework_2](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_2.ipynb)
+* **Link 2:** [Nhập xuất dữ liệu](https://github.com/hbminh2508-design/Homeworkuet/blob/main/BieuThucToanTuNhapXuatDuLieu.ipynb)
+
+---
+
+## Thực hành 03:
+
+* **Link 1:** [Homework_3](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_3.ipynb)
+* **Link 2:** [Cấu trúc điều kiện lựa chọn]([https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_3.ipynb](https://github.com/hbminh2508-design/Homeworkuet/blob/main/CauTrucDieuKhienLuaChon.ipynb))
 
 ---
 

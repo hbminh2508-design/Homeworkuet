@@ -26,6 +26,6 @@ Nộp bài tập về nhà học phần **Tư Duy Tính Toán - UET.COM1050**
 ## Thực hành 03:
 
 * **Link 1:** [Homework_3](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_3.ipynb)
-* **Link 2:** [Cấu trúc điều kiện lựa chọn]([https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_3.ipynb](https://github.com/hbminh2508-design/Homeworkuet/blob/main/CauTrucDieuKhienLuaChon.ipynb))
+* **Link 2:** [Cấu trúc điều kiện lựa chọn](https://github.com/hbminh2508-design/Homeworkuet/blob/main/CauTrucDieuKhienLuaChon.ipynb)
 
 ---

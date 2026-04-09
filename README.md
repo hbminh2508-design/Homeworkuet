@@ -8,6 +8,7 @@ Nộp bài tập về nhà học phần **Tư Duy Tính Toán - UET.COM1050**
 * **Lớp:** 2526II_UET.COM1050_15
 
 https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_4.ipynb
+https://github.com/hbminh2508-design/Homeworkuet/blob/main/VongLap.ipynb
 
 ---
 

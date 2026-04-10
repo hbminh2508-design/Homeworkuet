@@ -37,7 +37,7 @@ Nộp bài tập về nhà học phần **Tư Duy Tính Toán - UET.COM1050**
 
 ---
 
-## Thực hành 04:
+## Thực hành 05:
 
 * **Link 1:** [Homework_5](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_5.ipynb)
 * **Link 2:** [Ôn tập](Null)

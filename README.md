@@ -42,3 +42,16 @@ Nộp bài tập về nhà học phần **Tư Duy Tính Toán - UET.COM1050**
 * **Link 1:** [Homework_5](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_5.ipynb)
 
 ---
+
+## Thực hành 06:
+
+* **Link 1:** [In_Out](https://github.com/hbminh2508-design/Homeworkuet/blob/main/In_Out.ipynb)
+* **Link 2:** [Bài Tập cơ bản bản_List](https://github.com/hbminh2508-design/Homeworkuet/blob/main/BaiTapCoBan_List.ipynb)
+
+---
+
+## Thực hành 08:
+
+* **Link 1:** [Homework_8](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_8.ipynb)
+
+---

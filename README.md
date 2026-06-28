@@ -9,6 +9,10 @@ Nộp bài tập về nhà học phần **Tư Duy Tính Toán - UET.COM1050**
 
 ---
 
+* **Ôn tập học phần:** [OnTap](https://github.com/hbminh2508-design/Homeworkuet/blob/main/ontap.md)
+
+---
+
 ## Thực hành 01:
 
 * **Link 1:** [Homework_1](https://github.com/hbminh2508-design/Homeworkuet/blob/main/Homework_1.ipynb)
